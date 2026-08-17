@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "kelas": "X.7",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T08:16:59.161Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549188,
+      "nama": "ADZIMA SYARIFAH",
+      "nohp": "085280360969",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549189,
+      "nama": "AKMA FATHIN MURDIANSYAH",
+      "nohp": "085263047747",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549190,
+      "nama": "AMINAH",
+      "nohp": "081374503052",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549191,
+      "nama": "ASSYFA KHAIRUNISSA",
+      "nohp": "082173002557",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549192,
+      "nama": "AULIA PUTRI",
+      "nohp": "083800870662",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549193,
+      "nama": "CHAYARA QANITA ALVINDA",
+      "nohp": "081374567666",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549194,
+      "nama": "FADHILLA NAJWA PUTRI",
+      "nohp": "082287141133",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549195,
+      "nama": "FAVIAN JIWANI",
+      "nohp": "081275875874",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549196,
+      "nama": "HAFIZAH HANUM SYAKIRA",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549197,
+      "nama": "HANIFAH HUSNA",
+      "nohp": "082385911510",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549198,
+      "nama": "HANNI ISTIGFARI",
+      "nohp": "081266065428",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549199,
+      "nama": "ILHAM PANGESTU",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549200,
+      "nama": "JASMINE DWI ANGEL",
+      "nohp": "089525816784",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549201,
+      "nama": "KAFFA ALZIKRI",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549202,
+      "nama": "KENZIE KYOKO SUKOSI",
+      "nohp": "085763187913",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549203,
+      "nama": "KIM NOBARENO",
+      "nohp": "085375523950",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549204,
+      "nama": "MAULANA FAHIM ALBARRA",
+      "nohp": "081371866121",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549205,
+      "nama": "MUHAMAD HABIB",
+      "nohp": "085314150679",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549206,
+      "nama": "MUHAMAD THORIQ ALMUBAROQ",
+      "nohp": "085766188246",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549207,
+      "nama": "MUHAMMAD DAVU KASTARA",
+      "nohp": "081378319424",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549208,
+      "nama": "MUHAMMAD GAFAR",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549209,
+      "nama": "MUHAMMAD RAFIF ADITYA",
+      "nohp": "083181787223",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549210,
+      "nama": "OKTABILA NUR AINUN IZZATI",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549211,
+      "nama": "PUTRI HARUMY",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549212,
+      "nama": "RAFQI ALGHIFARI",
+      "nohp": "083897150366",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549213,
+      "nama": "RAKHA DWI PUTRA",
+      "nohp": "082278921522",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549214,
+      "nama": "RAMADHANNIA FITRI",
+      "nohp": "085356026284",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549215,
+      "nama": "RAVELIO SYACRAH",
+      "nohp": "082386394009",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549216,
+      "nama": "RIFA AURELIA",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549217,
+      "nama": "RURI ANGGHRAINI",
+      "nohp": "085274872366",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549218,
+      "nama": "SARGIO AKTO FIANES",
+      "nohp": "082391737993",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549219,
+      "nama": "TEGAR SHUBUH AGUNG",
+      "nohp": "085625956542",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549220,
+      "nama": "THARIQ ALFATTAH MARSIO",
+      "nohp": "08126742128",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549221,
+      "nama": "VHALYSTA EARLENE BHIANTORO",
+      "nohp": "082387376161",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549222,
+      "nama": "ZAHRA AZFARI",
+      "nohp": "-",
+      "kelas": "X.7"
+    },
+    {
+      "id": 1786954549223,
+      "nama": "ZUKRIYATUL ZAHIRAH",
+      "nohp": "085265257147",
+      "kelas": "X.7"
+    }
+  ]
+}
